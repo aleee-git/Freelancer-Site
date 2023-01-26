@@ -13,14 +13,14 @@ body {
 html {
     box-sizing: border-box;
     /* Scroll custome  */
-    scroll-snap-type: y mandatory;
+    /* scroll-snap-type: y mandatory; */
 }
 
 /* Scroll custome  */
-.services, .menu-principal, .formulario {
+/* .services, .menu-principal, .formulario {
     scroll-snap-align: center;
     scroll-snap-stop: always;
-}
+} */
 
 *, *:before, *:after {
     box-sizing: inherit;
